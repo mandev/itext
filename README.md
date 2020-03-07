@@ -4,7 +4,7 @@ This is a fork of iText 2.17. It includes special enhacements, especially in the
 
 ## Licence
 
-As the original iText 2.17 fork is provided under LGPL Licence.
+As the original, this iText 2.17 fork is provided under LGPL Licence.
 
 
 
